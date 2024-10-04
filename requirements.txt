@@ -1,0 +1,6 @@
+langchain-huggingface
+langchain-core
+langchain-community
+langchain-chroma
+torch
+gradio
